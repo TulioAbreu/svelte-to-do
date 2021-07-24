@@ -7,7 +7,6 @@
 Just a basic todo app trying to figure out how to use Svelte and how it works.
 
 ![Demo GIF](https://raw.githubusercontent.com/TulioAbreu/svelte-to-do/master/docs/svelte-todo.gif)
-https://raw.githubusercontent.com/TulioAbreu/svelte-to-do/master/docs/svelte-todo.gif
 
 # Getting started
 
